@@ -1,3 +1,3 @@
 # C-PROGRAMS
 
-*This are the simple programs and activities I made during my freshmen year*
+*These are simple programs and activities that I made during my freshmen year*
